@@ -13,4 +13,6 @@ public class App
         System.out.println("=====master====v2===hotfix-2====");
         System.out.println("======hotfix-2=======");
     }
+    public foo()
+    {}
 }
