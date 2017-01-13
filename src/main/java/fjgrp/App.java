@@ -13,6 +13,7 @@ public class App
         System.out.println("=====master====v2===hotfix-2====");
         System.out.println("======hotfix-2=======");
         System.out.println("tag-1");
+        System.out.println("tag-2");
     }
     public foo()
     {}
