@@ -26,6 +26,7 @@ public class AppTest
     public static Test suite()
     {
         System.out.println("=====hot fix 2=====");
+        System.out.println("===test amend====");
         return new TestSuite( AppTest.class );
 
     }
